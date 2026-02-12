@@ -8,7 +8,7 @@ import { FaGithub, FaLink } from "react-icons/fa";
 // ✅ Import images properly
 import OpsboardImg from "../assets/Opsboard-lite.jpeg";
 import EmploymentImg from "../assets/Employment-Management.jpeg";
-import portfolioImg from "../assets/frontimg.png";
+import portfolioImg from "../assets/portfolio.jpeg";
 import EcommerceImg from "../assets/Ecommerce.png";
 import todoImg from "../assets/todolist.png";
 
@@ -41,8 +41,8 @@ const projectList = [
       "My personal portfolio built with React, Framer Motion, and Tailwind CSS showcasing my work and skills.",
     tags: ["React", "Framer Motion", "Tailwind"],
     github:
-      "https://github.com/kasyapgnath/portfolio-main/tree/5473be8d0dbb45c607f061e7fad81cab7ce4507e/portfolio",
-    live: "https://portfolio-main-last-eta.vercel.app/",
+      "https://github.com/Adithyan041/Portfolio",
+    live: "https://vercel.com/adithyans-projects-8ddc8492/portfolio",
   },
   {
     name: "Ecommerce App",
