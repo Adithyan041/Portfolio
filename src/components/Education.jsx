@@ -5,7 +5,7 @@ import { FaGraduationCap } from 'react-icons/fa';
 const educationData = [
   {
     institution: 'Arcite school of education',
-    degree: 'webdevelopment trainee',
+    degree: 'fullstack developer trainee',
     year: '2025 - 2026',
     details: 'Specialized in python fullstack development.',
   },
