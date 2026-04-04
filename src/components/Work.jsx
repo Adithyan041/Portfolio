@@ -22,7 +22,7 @@ const projectList = [
     tags: ["React", "Tailwind", "Dashboard" , "Analytics"],
     github:
       "https://github.com/Adithyan041/opsboard-lite",
-    live: "https://opsboard-lite-five.vercel.app/login",
+    live: "https://opsboard-lite-five.vercel.app/",
   },
   {
     name: "Employment Management System",

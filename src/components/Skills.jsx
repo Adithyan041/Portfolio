@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaGitAlt, FaFigma,FaServer } from 'react-icons/fa';
+import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaGitAlt, FaFigma,FaServer, } from 'react-icons/fa';
+import { SiPython, SiDjango, SiMysql, SiPostgresql } from 'react-icons/si';
 import { SiTailwindcss,SiBootstrap} from 'react-icons/si';
 
 // Skills data
@@ -13,6 +14,10 @@ const skillsList = [
    { name: 'Bootstrap', icon: SiBootstrap, level: 5, color: 'text-purple-500' },
   { name: 'Git/GitHub', icon: FaGitAlt, level: 5, color: 'text-red-500' },
     { name: 'API', icon: FaServer, level: 5, color: 'text-green-400' },
+    { name: 'Python', icon: SiPython, level: 5, color: 'text-yellow-500' },
+  { name: 'Django', icon: SiDjango, level: 5, color: 'text-green-600' },
+  { name: 'MySQL', icon: SiMysql, level: 5, color: 'text-blue-600' },
+  { name: 'PostgreSQL', icon: SiPostgresql, level: 5, color: 'text-indigo-500' },
 
 ];
 
